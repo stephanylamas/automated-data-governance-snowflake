@@ -1,6 +1,6 @@
 # Automated Enterprise Data Governance and Role Based Access Control Framework with Snowflake
 
-An end-to-end Snowflake security, access governance, and compliance pipeline implementing Role-Based Access Control (RBAC), Dynamic Data Masking, **Object Tagging, and Access Auditing across a Medallion architecture (`BRONZE_RAW` → `SILVER_SECURE`).
+An end-to-end Snowflake security, access governance, and compliance pipeline implementing Role-Based Access Control (RBAC), Dynamic Data Masking, Object Tagging, and Access Auditing across a Medallion architecture (`BRONZE_RAW` → `SILVER_SECURE`).
 
 ## Industry Problem & Architecture Overview
 
